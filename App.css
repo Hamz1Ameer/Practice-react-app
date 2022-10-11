@@ -1,0 +1,19 @@
+.App {
+  text-align: justify;
+  margin: 2vh;
+  background-color: #B6E388;
+}
+
+.Students-component {
+  text-align: center;
+  border: dashed burlywood 7px;
+  padding: 0;
+}
+
+.id-btn {
+  background-color: #E1FFB1;
+  border-radius: 15%;
+}
+.id-btn:hover{
+  background-color: #e1ffb198;
+}
